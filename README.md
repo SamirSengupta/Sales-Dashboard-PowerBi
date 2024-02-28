@@ -2,6 +2,8 @@
 
 Welcome to the SuperStore Sales Dashboard repository! This repository contains a Power BI dashboard created to analyze sales data from the SuperStore_Sales_Dataset. With this dashboard, you can gain insights into various aspects of the SuperStore's sales performance.
 
+![Dashboard Preview](dashboard.png)
+
 ## Getting Started
 
 To get started, follow these simple steps:
